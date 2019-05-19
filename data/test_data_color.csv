@@ -1,0 +1,5 @@
+color,shape,liked
+blue,hexagon,FALSE
+red,hexagon,FALSE
+yellow,hexagon,TRUE
+yellow,circle,TRUE
